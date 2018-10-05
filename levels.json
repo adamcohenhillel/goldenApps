@@ -1,29 +1,11 @@
 {
-	"aa":{
+	"a":{
 		"id": 1,
 		"name": "aaaaaa level",
 		"story": "bla bla bla",
 		"solution": "kakaka"
 	},
-	"a":{
-		"id": 1,
-		"name": "first level",
-		"story": "bla bla bla",
-		"solution": "kakaka"
-	},
 	"b":{
-		"id": 2,
-		"name": "second level",
-		"story": "bla bla bla",
-		"solution": "kakaka"
-	},
-	"v":{
-		"id": 3,
-		"name": "third level",
-		"story": "bla bla bla",
-		"solution": "kakaka"
-	},
-	"c":{
 		"id": 4,
 		"name": "fourth level",
 		"story": "bla bla bla",
