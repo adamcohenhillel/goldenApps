@@ -1,29 +1,29 @@
 {
 	"4":{
 		"name": "מצויין",
-		"color": "(15/255,15/255,15/255)" 
-		"category":"אימה"
+		"color": "(15/255,15/255,15/255)",
+		"category":"אימה",
 		"story": "bla bla bla",
 		"solution": "kakaka"
 	},
 	"3":{
 		"name": "אחלה",
-		"color": "(15/255,15/255,15/255)" 
-		"category":"אימה"
+		"color": "(15/255,15/255,15/255)",
+		"category":"אימה",
 		"story": "bla bla bla",
 		"solution": "kakaka"
 	},
 	"2":{
 		"name": "כמו שצריך",
-		"color": "(15/255,15/255,15/255)" 
-		"category":"אימה"
+		"color": "(15/255,15/255,15/255)",
+		"category":"אימה",
 		"story": "bla bla bla",
 		"solution": "kakaka"
 	},
 	"1":{
 		"name": "אדיר",
-		"color": "(15/255,15/255,15/255)" 
-		"category":"אימה"
+		"color": "(15/255,15/255,15/255)",
+		"category":"אימה",
 		"story": "bla bla bla",
 		"solution": "kakaka"
 	}
