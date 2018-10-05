@@ -3,24 +3,36 @@
 		"name": "מצויין",
 		"category":"אימה",
 		"story": "bla bla bla",
-		"solution": "kakaka"
+		"solution": "kakaka",
+		"R":0.945,
+		"G":0.772,
+		"B":0.054
 	},
 	"3":{
 		"name": "אחלה",
 		"category":"אימה",
 		"story": "bla bla bla",
-		"solution": "kakaka"
+		"solution": "kakaka",
+		"R":0.945,
+		"G":0.772,
+		"B":0.054
 	},
 	"2":{
 		"name": "כמו שצריך",
 		"category":"אימה",
 		"story": "bla bla bla",
-		"solution": "kakaka"
+		"solution": "kakaka",
+		"R":0.945,
+		"G":0.772,
+		"B":0.054
 	},
 	"1":{
 		"name": "אדיר",
 		"category":"אימה",
 		"story": "bla bla bla",
-		"solution": "kakaka"
+		"solution": "kakaka",
+		"R":0.945,
+		"G":0.772,
+		"B":0.054
 	}
 }
