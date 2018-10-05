@@ -1,13 +1,21 @@
 {
+	"4":{
+		"name": "מצויין",
+		"story": "bla bla bla",
+		"solution": "kakaka"
+	},
+	"3":{
+		"name": "אחלה",
+		"story": "bla bla bla",
+		"solution": "kakaka"
+	},
 	"2":{
-		"id": 2,
-		"name": "aaaaaa level",
+		"name": "כמו שצריך",
 		"story": "bla bla bla",
 		"solution": "kakaka"
 	},
 	"1":{
-		"id": 1,
-		"name": "fourth level",
+		"name": "אדיר",
 		"story": "bla bla bla",
 		"solution": "kakaka"
 	}
